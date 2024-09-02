@@ -1,0 +1,4 @@
+# chai aur backend series
+
+This is a video series on backend with javascript
+[Model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3lxaGRNNXE0QWdqNFlEUVhLNWY2RFpnbFZfQXxBQ3Jtc0trT1d3WnBZX1lkUVBkNGZib2tkZ2REeGViYWRveGN6ODhJcDZxTXNnQWNyTXJMQllxVFBXQWFHNGNTOWpLOHBES3h2dmFfMUxiMVpvZ20zbEZTZXEzSmU0MnR6QWdKNW91RzBZUUo3ajRfQ2FGVVpWYw&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
